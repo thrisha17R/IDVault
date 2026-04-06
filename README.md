@@ -9,6 +9,10 @@
 Unlike cloud-based apps, IDVault works **100% offline**, ensuring your sensitive data never leaves your phone.
 
 ---
+### Preview
+https://github.com/user-attachments/assets/ba6b8abf-cb83-4dc0-843d-18ae8264cc4b
+
+---
 
 ## Features
 
