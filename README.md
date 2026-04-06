@@ -62,7 +62,3 @@ IDVault ensures:
 - ✅ Complete privacy  
 - ⚡ Fast local access  
 - 🔒 No risk of data leaks  
-
-
-## 👨‍💻 Author
-**Your Name**
