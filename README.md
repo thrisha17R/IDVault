@@ -3,36 +3,36 @@
 
 ---
 
-## 📌 Overview
+## Overview
 **IDVault** is a privacy-focused Android application that allows users to securely store and manage important ID cards such as Aadhar, PAN, College ID, and Driving License directly on their device.
 
 Unlike cloud-based apps, IDVault works **100% offline**, ensuring your sensitive data never leaves your phone.
 
 ---
 
-## ✨ Features
+## Features
 
-### 🔐 Security
+### Security
 - **PIN Lock** – Secure your vault with a custom 4-digit PIN  
 - **Offline Mode** – No internet, no cloud, no third-party servers  
 
-### 🗂️ Card Management
+### Card Management
 - **Card Storage** – Store multiple ID card images  
 - **Rename Cards** – Update card names anytime  
 - **Delete Options** – Swipe to delete or long-press menu  
 
-### 🔍 Usability
+### Usability
 - **Search Functionality** – Quickly find cards by name  
 - **Share Feature** – Share card images directly from the app  
 - **Profile Section** – View stats, change PIN, manage vault  
 
-### 🎨 UI/UX
+### UI/UX
 - **Dark Theme** – Premium vault-style interface  
 - **Smooth Navigation** – Fragment-based bottom navigation  
 
 ---
 
-## 📸 Screens
+## Screens
 
 | Screen Type     | Description                     |
 |----------------|--------------------------------|
@@ -43,7 +43,7 @@ Unlike cloud-based apps, IDVault works **100% offline**, ensuring your sensitive
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language:** Java  
 - **UI:** XML Layouts  
@@ -55,7 +55,7 @@ Unlike cloud-based apps, IDVault works **100% offline**, ensuring your sensitive
 
 ---
 
-## 🎯 Core Idea
+## Core Idea
 > **Your personal data should stay personal.**
 
 IDVault ensures:
