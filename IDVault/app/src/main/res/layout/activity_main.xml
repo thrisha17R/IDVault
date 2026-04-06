@@ -1,0 +1,35 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/bg_gradient"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:text="🔐 IDVault"
+        android:textSize="28sp"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:layout_marginBottom="30dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <EditText
+        android:id="@+id/pinInput"
+        android:hint="Enter PIN"
+        android:textColor="#000"
+        android:background="#fff"
+        android:padding="12dp"
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"/>
+
+    <Button
+        android:id="@+id/unlockBtn"
+        android:text="Unlock"
+        android:textColor="#000"
+        android:backgroundTint="#ffffff"
+        android:layout_marginTop="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
